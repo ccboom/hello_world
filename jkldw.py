@@ -1,3 +1,4 @@
 imoprt random
 
-print(1)
+print("nsd")
+print(random.randint())
